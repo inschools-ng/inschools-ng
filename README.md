@@ -16,7 +16,7 @@
   </br>
       </br>I am building and working on:<br/>
       </br>
-            Data Engineering <a href=ipfs://eastern-research.eth target="blank">@Eastern Research Capital L.P.</a>
+            Applied Machine Learning <a href=ipfs://eastern-research.eth target="blank">@Eastern Research Capital L.P.</a>
   <br/>
   </br>
       </br>Previously:<br/>
