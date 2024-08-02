@@ -27,9 +27,7 @@
       <img src="assets/vc.svg" width="150px">
     <br/>
   <samp></br> Socials: <br/></samp>
-  </br>
-    //<a href="https://twitter.com/chchzna" target="blank"><samp>Twitter</samp></a>
-  </br>
+  
   <samp>
   </br>
       Reach me @: <a href=mailto:inschoolsng@gmail.com target="blank">inschoolsng@gmail.com</a>
