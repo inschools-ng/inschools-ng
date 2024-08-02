@@ -21,7 +21,7 @@
   </br>
       </br>Previously:<br/>
       </br>
-           Software Engineering Intern <a href=https://b2bhint.com/en/company/ng/robotics-centre-limited--RC-1690704 target="blank">@Robotics Centre Lagos</a>
+           // Software Engineering Intern <a href=https://b2bhint.com/en/company/ng/robotics-centre-limited--RC-1690704 target="blank">@Robotics Centre Lagos</a>
            // Research Software Engineer <a href=https://www.unn.edu.ng/academics/faculties/engineering/agricultural-and-bioresources-engineering/ target="blank">@Department of Agricultural and Bioresources Engineering at the University of Nigeria</a>
   <br/>
   
@@ -33,7 +33,7 @@
     <br/>
   <samp></br> Socials: <br/></samp>
   </br>
-    <a href="https://twitter.com/chchzna" target="blank"><samp>Twitter</samp></a>
+    //<a href="https://twitter.com/chchzna" target="blank"><samp>Twitter</samp></a>
   </br>
   <samp>
   </br>
