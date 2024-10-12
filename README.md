@@ -8,7 +8,7 @@
       <img src="assets/wav.gif" width="150px"> 
     <br/>
      </br>
-      I am currently taking advanced graduate classes in Electrical and Computer Engineering @ <a href=https://nyu.edu/ target="blank">New York University</a>
+      Currently taking advanced graduate classes in Electrical and Computer Engineering @ <a href=https://nyu.edu/ target="blank">New York University</a>
     <br/>
     </br>
       <img src="assets/col.svg" width="150px"> 
