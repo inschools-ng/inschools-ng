@@ -1,6 +1,6 @@
 <p align="center">
   </br>
-      <samp>Hello World!</samp>
+      <samp>Nnoo!!! (//This means "Welcome" in Igbo - a Language in South Eastern Nigeria )</samp>
   </br>
   <samp>
     </br>
@@ -16,7 +16,7 @@
   </br>
       </br>I am working on:<br/>
       </br>
-            Accelerating Hardware <a href=ipfs://eastern-research.eth target="blank">@Eastern Research Capital L.P.</a>
+            Accelerating Hardware <a href=ipfs://eastern-research.eth target="blank">@ Eastern Research Capital</a>
   <br/>
   
   
@@ -30,7 +30,7 @@
   
   <samp>
   </br>
-      Reach me @: <a href=mailto:inschoolsng@gmail.com target="blank">inschoolsng@gmail.com</a>
+      Reach me @: <a href=mailto:inschoolsng@gmail.com target="blank">1145yuit@gmail.com</a>
   <br/>
   </samp>
 </p>
