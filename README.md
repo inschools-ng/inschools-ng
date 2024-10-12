@@ -7,16 +7,16 @@
       <img src="assets/wav.gif" width="150px"> 
     <br/>
      </br>
-      I am a Master's candidate for the Industrial Engineering program @ <a href=https://mie.uic.edu/graduate/masters-programs/ target="blank">University of Illinois Chicago</a>
+      I am currently taking advanced graduate classes in Electrical and Computer Engineering @ <a href=https://nyu.edu/ target="blank">New York University</a>
     <br/>
     </br>
       <img src="assets/col.svg" width="150px"> 
     </br>
   <br/>
   </br>
-      </br>I am building and working on:<br/>
+      </br>I am working on:<br/>
       </br>
-            Applied Machine Learning <a href=ipfs://eastern-research.eth target="blank">@Eastern Research Capital L.P.</a>
+            Accelerating Hardware <a href=ipfs://eastern-research.eth target="blank">@Eastern Research Capital L.P.</a>
   <br/>
   
   
