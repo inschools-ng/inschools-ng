@@ -1,6 +1,7 @@
 <p align="center">
   </br>
-      <samp>Nnoo!!! (//This means "Welcome" in Igbo - a Language in South Eastern Nigeria )</samp>
+      <samp>Nnoo!!! 
+        (This means "Welcome" in Igbo - a Language in South Eastern Nigeria )</samp>
   </br>
   <samp>
     </br>
