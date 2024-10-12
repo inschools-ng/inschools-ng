@@ -15,7 +15,7 @@
     </br>
   <br/>
   </br>
-      </br>I am working on:<br/>
+      </br>Working on:<br/>
       </br>
             Accelerating Hardware <a href=ipfs://eastern-research.eth target="blank">@ Eastern Research Capital</a>
   <br/>
