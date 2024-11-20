@@ -17,7 +17,7 @@
   </br>
       </br>Working on:<br/>
       </br>
-            Accelerating Hardware <a href=ipfs://eastern-research.eth target="blank">@ Eastern Research Capital</a>
+            Software/Hardware Acceleration <a href=ipfs://eastern-research.eth target="blank"></a>
   <br/>
   
   
