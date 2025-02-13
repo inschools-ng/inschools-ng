@@ -31,7 +31,7 @@
   
   <samp>
   </br>
-      Reach me @: <a href=mailto:inschoolsng@gmail.com target="blank">1145yuit@gmail.com</a>
+      Reach me @: <a href=mailto:inschoolsng@gmail.com target="blank">[1145yuit@gmail.com](https://mailhide.io/e/GDlB63US)</a>
   <br/>
   </samp>
 </p>
